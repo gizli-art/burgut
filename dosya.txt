@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b0hEcENnVHdwSVhIOE83RmNPT3dxZzllOE9pRDFsb3c1NVlVc08xRWdGTXc2dkN2Y09MVnlJOXdyakNzQT09@185.228.235.38:48060?type=tcp#d-s8kuf4x4
+vless://0feca82b-0435-4bb2-a1e7-532a99310390@193.176.179.221:15515?type=tcp&security=none#m387eq0e
